@@ -15,6 +15,23 @@ The goal is to demonstrate the complete analytics workflow: define a business pr
 **Source:** UCI Online Retail, December 2010–December 2011.  
 **Comparative analysis window:** December 2010–November 2011. The final partial month is excluded.
 
+## Dashboard preview
+
+### Sales performance
+Sales KPIs and monthly trends across the complete-month analysis period.
+
+![Sales performance dashboard](docs/screenshots/sales-dashboard.png)
+
+### Customers and retention
+Repeat purchasing, customer identification coverage and descriptive customer segments.
+
+![Customer analysis dashboard](docs/screenshots/customer-retention.png)
+
+### Data quality and validation
+Source-row classifications, missing values and automated validation results.
+
+![Data quality dashboard](docs/screenshots/data-quality.png)
+
 ## Business questions
 
 - How do sales and merchandise credit values change month by month?
